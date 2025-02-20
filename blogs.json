@@ -1,0 +1,38 @@
+{
+  {
+      "id": 1,
+      "title": "The Future of Web Development: Trends to Watch in 2025",
+      "subtitle":
+        "How AI, WebAssembly, and new frameworks are reshaping the development landscape",
+      "coverImage": "https://picsum.photos/1280/720",
+      "publishedAt": "Feb 12, 2025",
+      "readTime": "8 min read",
+      "content": `
+              <p>The web development world continues to evolve at a breakneck pace. As we move through 2025, several key trends are emerging that will likely define the next era of web development.</p>
+              
+              <h2>1. AI-Assisted Development is Now Mainstream</h2>
+              <p>Gone are the days when AI was just a buzzword in development circles. Now, AI assistants are an integral part of every developer's toolkit, helping with everything from code completion to debugging and testing.</p>
+              <p>The most successful teams have found the right balance between human creativity and AI efficiency, creating workflows that leverage the strengths of both.</p>
+              
+              <h2>2. WebAssembly is Fulfilling its Promise</h2>
+              <p>After years of steady progress, WebAssembly (Wasm) has finally reached a tipping point in adoption. The ability to run high-performance code in the browser, regardless of the source language, has opened up new possibilities for web applications.</p>
+              <p>From complex data visualization to in-browser video editing, Wasm is enabling experiences that were previously only possible in native applications.</p>
+              
+              <h2>3. Edge Computing is the New Normal</h2>
+              <p>With major cloud providers expanding their edge networks, we're seeing more applications move critical functionality closer to users. This shift is reducing latency and improving user experiences worldwide.</p>
+              <p>Developers are rethinking architecture patterns to take advantage of this distributed computing model, with new frameworks and tools emerging to simplify edge deployment.</p>
+            `,
+      "author": {
+        name: "Alex Chen",
+        avatar: "/images/author-avatar.jpg",
+        bio: "Senior Developer Advocate | Writing about web technology and the future of development",
+      },
+      "tags": [
+        "Web Development",
+        "Technology Trends",
+        "JavaScript",
+        "WebAssembly",
+        "Edge Computing",
+      ],
+    },
+}
