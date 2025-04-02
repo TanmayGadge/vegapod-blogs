@@ -1,26 +1,26 @@
 [
   {
-      id: 1,
-      title: "The Future of AI in Healthcare",
-      description:
+      "id": 1,
+      "title": "The Future of AI in Healthcare",
+      "description":
         "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
-      imageUrl: "/images/ai-healthcare.jpg",
-      url: "https://example.com/ai-healthcare",
+      "imageUrl": "/images/ai-healthcare.jpg",
+      "url": "https://example.com/ai-healthcare",
     },
    {
-      id: 1,
-      title: "The Future of AI in Healthcare",
-      description:
+      "id": 1,
+      "title": "The Future of AI in Healthcare",
+      "description":
         "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
-      imageUrl: "/images/ai-healthcare.jpg",
-      url: "https://example.com/ai-healthcare",
+      "imageUrl": "/images/ai-healthcare.jpg",
+      "url": "https://example.com/ai-healthcare",
     },
    {
-      id: 1,
-      title: "The Future of AI in Healthcare",
-      description:
+      "id": 1,
+      "title": "The Future of AI in Healthcare",
+      "description":
         "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
-      imageUrl: "/images/ai-healthcare.jpg",
-      url: "https://example.com/ai-healthcare",
+      "imageUrl": "/images/ai-healthcare.jpg",
+      "url": "https://example.com/ai-healthcare",
     },
 ]
