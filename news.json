@@ -10,14 +10,98 @@
     "id": 2,
     "title": "The Future of AI in Healthcare",
     "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
-    "imageUrl": "/images/ai-healthcare.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/2.jpg",
     "url": "https://example.com/ai-healthcare"
   },
   {
     "id": 3,
     "title": "The Future of AI in Healthcare",
     "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
-    "imageUrl": "/images/ai-healthcare.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/3.jpg",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 3,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/Aaj Ka Anand.jpg",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 4,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/Gadkari Sakal.jpg",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 5,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 6,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 7,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 8,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 9,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 10,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 11,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 12,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 13,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
+    "url": "https://example.com/ai-healthcare"
+  },
+    {
+    "id": 14,
+    "title": "The Future of AI in Healthcare",
+    "description": "New developments in artificial intelligence are transforming how doctors diagnose and treat patients, with promising results in early disease detection.",
+    "imageUrl": "https://raw.githubusercontent.com/TanmayGadge/vegapod-blogs/master/Article/",
     "url": "https://example.com/ai-healthcare"
   }
 ]
